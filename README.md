@@ -87,7 +87,7 @@ delete elements from the list by index.
 
 - add
 insert new elements to the list.
-````add(myList,1);add(myList,2); //insert values 1,2 to the list```
+```add(myList,1);add(myList,2); //insert values 1,2 to the list```
 
 - set
 update elements in the list.
