@@ -1,3 +1,10 @@
+/*
+ *Advanced example of C linked list.
+ *the library implements new data structure (int_list)
+ *And provides useful insertion/deletion/count functions.
+ * By : Mahmoud Aly
+ * engma7moud3ly@gmail.com
+ */
 #include <int_list.h>
 
 int main()

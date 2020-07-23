@@ -1,3 +1,10 @@
+/*
+ *the library implements new data structure (int_list)
+ *And provides useful insertion/deletion/count functions.
+ * By : Mahmoud Aly
+ * engma7moud3ly@gmail.com
+ */
+
 #ifndef INT_LIST_H
 #define INT_LIST_H
 
